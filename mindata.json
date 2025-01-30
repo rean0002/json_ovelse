@@ -32,5 +32,25 @@
     },
     "email": "winston1@gmail.com",
     "fødselsdato": "2010-10-10"
+  },
+  {
+    "id": 1,
+    "navne": {
+      "fornavn": "Sofie",
+      "efternavn": "Utke"
+    },
+    "alder": 25,
+    "studerende": true,
+    "interesser": ["Design", "Medier", "Rejser"],
+    "adresse": {
+      "vej": "Øselsgade 10",
+      "by": "København S",
+      "postnummer": 2300
+    },
+    "kontaktinformation": {
+      "telefon": "23987781",
+      "email": "sobo0001@stud.kea.dk"
+    },
+    "fødselsdato": "2000-01-28"
   }
 ]
